@@ -1,23 +1,19 @@
-## Hi there 👋 I 'm Anupama Veerapaneni
-**Subtitle**
-A passionate frontend developer.
-
-**Work**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hei there 👋Jeg er Anupama Veerapaneni
 
 
-**Skills**
+- 🔭 For øyeblikket jobber jeg med Guntendex React Project
 
-Programming Languages
+- 📫 Kontakt  anupamaveerapaneni@gmail.com
 
-**Social**
+- ⚡ Fun fact: 
+
+
+**Ting jeg kan**
+
+css3 figma git html5 javascript  react
+
+
+
 
 
 <!--
