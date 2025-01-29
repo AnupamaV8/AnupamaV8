@@ -3,9 +3,7 @@
 
 - 🔭 For øyeblikket jobber jeg med Guntendex React Project
 
-- 📫 Kontakt  anupamaveerapaneni@gmail.com
-
-- ⚡ Fun fact: 
+- 📫 Kontakt: anupamaveerapaneni@gmail.com
 
 
 **Ting jeg kan**
